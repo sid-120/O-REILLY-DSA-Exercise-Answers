@@ -2,6 +2,10 @@
 
 Book : [O'Reilly (Michael McMillan) - Data Structures & Algorithms with JavaScript.pdf](<https://github.com/sid-120/O-REILLY-DSA-Exercise-Answers/blob/main/O'Reilly%20(Michael%20McMillan)%20-%20Data%20Structures%20%26%20Algorithms%20with%20JavaScript.pdf>)
 
+📘 **Welcome to my journey through [O'Reilly (Michael McMillan) - Data Structures & Algorithms with JavaScript]!**  
+🚀 This repository documents my solutions to coding challenges and exercises from the book.  
+💡 My goal is to deepen my understanding of JavaScript and improve my problem-solving skills through hands-on practice!
+
 ## Chapter 2 | Array
 
 Exercise 1. Create a grades object that stores a set of student grades in an object. Provide a
